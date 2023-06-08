@@ -1,0 +1,17 @@
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Servico.deps.json
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Servico.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Servico.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Dominio.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Infraestrutura.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Dominio.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\bin\Debug\net5.0\ProjetoEstudo.Infraestrutura.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.csproj.AssemblyReference.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.AssemblyInfoInputs.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.AssemblyInfo.cs
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.csproj.CopyComplete
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\refint\ProjetoEstudo.Servico.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ProjetoEstudo.Servico.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Servico\obj\Debug\net5.0\ref\ProjetoEstudo.Servico.dll

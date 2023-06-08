@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoEstudo.Servico/1.0.0": {
+        "dependencies": {
+          "ProjetoEstudo.Dominio": "1.0.0",
+          "ProjetoEstudo.Infraestrutura": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoEstudo.Servico.dll": {}
+        }
+      },
+      "ProjetoEstudo.Dominio/1.0.0": {
+        "runtime": {
+          "ProjetoEstudo.Dominio.dll": {}
+        }
+      },
+      "ProjetoEstudo.Infraestrutura/1.0.0": {
+        "dependencies": {
+          "ProjetoEstudo.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoEstudo.Infraestrutura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoEstudo.Servico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoEstudo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoEstudo.Infraestrutura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

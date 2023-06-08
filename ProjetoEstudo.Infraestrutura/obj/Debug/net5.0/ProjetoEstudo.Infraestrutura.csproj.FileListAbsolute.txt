@@ -1,0 +1,15 @@
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\bin\Debug\net5.0\ProjetoEstudo.Infraestrutura.deps.json
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\bin\Debug\net5.0\ProjetoEstudo.Infraestrutura.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\bin\Debug\net5.0\ProjetoEstudo.Infraestrutura.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\bin\Debug\net5.0\ProjetoEstudo.Dominio.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\bin\Debug\net5.0\ProjetoEstudo.Dominio.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.csproj.AssemblyReference.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.AssemblyInfoInputs.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.AssemblyInfo.cs
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.csproj.CopyComplete
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\refint\ProjetoEstudo.Infraestrutura.dll
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ProjetoEstudo.Infraestrutura.pdb
+C:\ProjetoDesenvolvimentoEstudo\ProjetoEstudo\ProjetoEstudo.Infraestrutura\obj\Debug\net5.0\ref\ProjetoEstudo.Infraestrutura.dll
